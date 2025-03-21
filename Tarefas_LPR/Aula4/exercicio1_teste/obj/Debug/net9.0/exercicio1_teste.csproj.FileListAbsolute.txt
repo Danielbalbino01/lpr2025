@@ -1,0 +1,15 @@
+C:\Users\Alunos\Desktop\lpr2025\Tarefas_LPR\Aula4\exercicio1_teste\bin\Debug\net9.0\exercicio1_teste.exe
+C:\Users\Alunos\Desktop\lpr2025\Tarefas_LPR\Aula4\exercicio1_teste\bin\Debug\net9.0\exercicio1_teste.deps.json
+C:\Users\Alunos\Desktop\lpr2025\Tarefas_LPR\Aula4\exercicio1_teste\bin\Debug\net9.0\exercicio1_teste.runtimeconfig.json
+C:\Users\Alunos\Desktop\lpr2025\Tarefas_LPR\Aula4\exercicio1_teste\bin\Debug\net9.0\exercicio1_teste.dll
+C:\Users\Alunos\Desktop\lpr2025\Tarefas_LPR\Aula4\exercicio1_teste\bin\Debug\net9.0\exercicio1_teste.pdb
+C:\Users\Alunos\Desktop\lpr2025\Tarefas_LPR\Aula4\exercicio1_teste\obj\Debug\net9.0\exercicio1_teste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alunos\Desktop\lpr2025\Tarefas_LPR\Aula4\exercicio1_teste\obj\Debug\net9.0\exercicio1_teste.AssemblyInfoInputs.cache
+C:\Users\Alunos\Desktop\lpr2025\Tarefas_LPR\Aula4\exercicio1_teste\obj\Debug\net9.0\exercicio1_teste.AssemblyInfo.cs
+C:\Users\Alunos\Desktop\lpr2025\Tarefas_LPR\Aula4\exercicio1_teste\obj\Debug\net9.0\exercicio1_teste.csproj.CoreCompileInputs.cache
+C:\Users\Alunos\Desktop\lpr2025\Tarefas_LPR\Aula4\exercicio1_teste\obj\Debug\net9.0\exercicio1_teste.sourcelink.json
+C:\Users\Alunos\Desktop\lpr2025\Tarefas_LPR\Aula4\exercicio1_teste\obj\Debug\net9.0\exercicio1_teste.dll
+C:\Users\Alunos\Desktop\lpr2025\Tarefas_LPR\Aula4\exercicio1_teste\obj\Debug\net9.0\refint\exercicio1_teste.dll
+C:\Users\Alunos\Desktop\lpr2025\Tarefas_LPR\Aula4\exercicio1_teste\obj\Debug\net9.0\exercicio1_teste.pdb
+C:\Users\Alunos\Desktop\lpr2025\Tarefas_LPR\Aula4\exercicio1_teste\obj\Debug\net9.0\exercicio1_teste.genruntimeconfig.cache
+C:\Users\Alunos\Desktop\lpr2025\Tarefas_LPR\Aula4\exercicio1_teste\obj\Debug\net9.0\ref\exercicio1_teste.dll
